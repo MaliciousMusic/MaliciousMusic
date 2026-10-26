@@ -71,7 +71,7 @@ and I measure them until they stop lying.*
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaliciousMusic&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaliciousMusic&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaliciousMusic&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=MaliciousMusic&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
