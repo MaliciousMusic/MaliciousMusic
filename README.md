@@ -21,9 +21,9 @@ and I measure them until they stop lying.*
 
 | | |
 |---|---|
-| 🥇 **NeurIPS 2026 — RealPDE Challenge** | **1st** in phase 1, Track 1 (Sim2Real) · 4th, Track 2 |
+| 🥇 **NeurIPS 2026 — RealPDE Challenge** | **1st** in phase 1, Track 1 (Sim2Real) · 4th, Track 2 — [repo](https://github.com/MaliciousMusic/realpde-neurips-2026) |
 | 🥈 **Kaggle — PTCG AI Battle Challenge** | **160th / 6,807** · silver medal — [repo](https://github.com/MaliciousMusic/pokemon-tcg-ai-battle) |
-| 🛢️ **Kaggle — ROGII Wellbore Geology Prediction** | 858th / 6,125 (top 14 %) |
+| 🛢️ **Kaggle — ROGII Wellbore Geology Prediction** | 858th / 6,125 (top 14 %) — [repo](https://github.com/MaliciousMusic/rogii-wellbore) |
 | 🔢 **OEIS A038372** | 24 new terms, each with a machine-checkable proof — [certificates](https://github.com/MaliciousMusic/A038372-certificates) |
 
 ### 🧭 Engineering philosophy
@@ -38,6 +38,7 @@ and I measure them until they stop lying.*
 | Project | What it is |
 |---|---|
 | [**aegaeon-showcase**](https://github.com/MaliciousMusic/aegaeon-showcase) | Substrate of verified laws: LLM encoders, Lean 4 kernel, DRAT certificates |
+| [**realpde-neurips-2026**](https://github.com/MaliciousMusic/realpde-neurips-2026) | Real turbulent wake forecasting: FNO + calibrated uncertainty bounds, reverse-engineered scoring |
 | [**pokemon-tcg-ai-battle**](https://github.com/MaliciousMusic/pokemon-tcg-ai-battle) | Transformer policy trained by imitation + seeded paired-arena evaluation |
 | [**A038372-certificates**](https://github.com/MaliciousMusic/A038372-certificates) | New OEIS terms with witness sets, DRAT proofs and Lean 4 checks |
 | [**pam-trading-bot**](https://github.com/MaliciousMusic/pam-trading-bot) | Paper-trading research platform: a council of 24 archetypes, self-calibrating |
